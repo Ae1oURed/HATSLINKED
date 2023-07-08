@@ -96,7 +96,7 @@
       <Item class="SpecialMesh" referent="RBX2">
         <Properties>
           <Content name="MeshId">
-            <url>http://raw.githubusercontent.com/Ae1oURed/HATS-/main/shareddata/charcustom/hats/fonts/Wolf%20Hounds%20Mane.mesh</url>
+            <url>http://raw.githubusercontent.com/Ae1oURed/HATS-/main/shareddata/charcustom/hats/fonts/Wolf%20Hounds%	20Mane.mesh</url>
           </Content>
           <token name="MeshType">5</token>
           <string name="Name">Mesh</string>
